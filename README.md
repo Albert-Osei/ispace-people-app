@@ -1,5 +1,9 @@
 # ispace-people-app
-![TheMaster](https://github.com/Albert-Osei/first-android-app/blob/main/appdemo.png)
+![TheMaster](https://github.com/Albert-Osei/ispace-people-app/blob/main/app/src/main/res/raw/demo1.png)
+
+![TheMaster](https://github.com/Albert-Osei/ispace-people-app/blob/main/app/src/main/res/raw/demo2.png)
+
+![TheMaster](https://github.com/Albert-Osei/ispace-people-app/blob/main/app/src/main/res/raw/demo3.png)
 
 It uses a BitmapShader and *does not*:
 * create a copy of the original bitmap
